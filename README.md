@@ -1,2 +1,0 @@
-# gold_development
-
